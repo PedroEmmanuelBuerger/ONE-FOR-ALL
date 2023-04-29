@@ -1,13 +1,28 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## One For All
+One For All é uma aplicação web desenvolvida para ajudar pessoas a encontrar eventos, restaurantes e locais turísticos com base em suas preferências e localização.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Funcionalidades
+A aplicação possui as seguintes funcionalidades:
+Pesquisar eventos, restaurantes e locais turísticos
+Filtrar resultados com base em categorias e distância
+Salvar resultados favoritos
+Visualizar resultados salvos
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+- React.js
+- Node.js
+- Express.js
+- MySql
+- Javascript
+
+## Para instalar e executar o projeto em sua máquina local, siga os passos abaixo:
+Clone o repositório para sua máquina local.
+rode o comando npm install.
+acesse o container usando um docker-compose build -it bash.
+
+## Principais Aprendizados
+Durante o desenvolvimento deste projeto, o principal aprendizado vem da organização em diagramas de tabelas de banco de dados, usando ligação N:N, N:1 ..., focando em fazer essa organização, alem é claro de popular estas tabelas.
+
+## Conclusão
+foi um projeto ótimo para aprender principalmente a organização de tabelas com o MySql, entendendo conceito que são aplicados diariamente no mercado de trabalho.
