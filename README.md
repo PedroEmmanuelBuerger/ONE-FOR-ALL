@@ -18,7 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Para instalar e executar o projeto em sua máquina local, siga os passos abaixo:
 Clone o repositório para sua máquina local.
 rode o comando npm install.
-acesse o container usando um docker-compose build -it bash.
+rode os testes com npm run test.
 
 ## Principais Aprendizados
 Durante o desenvolvimento deste projeto, o principal aprendizado vem da organização em diagramas de tabelas de banco de dados, usando ligação N:N, N:1 ..., focando em fazer essa organização, alem é claro de popular estas tabelas.
