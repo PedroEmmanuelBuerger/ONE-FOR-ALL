@@ -10,11 +10,10 @@ Visualizar resultados salvos
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
-- React.js
-- Node.js
-- Express.js
+- docker
 - MySql
 - Javascript
+- docker-compose
 
 ## Para instalar e executar o projeto em sua máquina local, siga os passos abaixo:
 Clone o repositório para sua máquina local.
