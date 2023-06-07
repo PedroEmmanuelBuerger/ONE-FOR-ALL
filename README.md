@@ -1,12 +1,5 @@
 ## One For All
-One For All é uma aplicação web desenvolvida para ajudar pessoas a encontrar eventos, restaurantes e locais turísticos com base em suas preferências e localização.
-
-## Funcionalidades
-A aplicação possui as seguintes funcionalidades:
-Pesquisar eventos, restaurantes e locais turísticos
-Filtrar resultados com base em categorias e distância
-Salvar resultados favoritos
-Visualizar resultados salvos
+o one for all é um projeto feito para criar e popular tabelas usando o banco de dados MySql, criando um banco de dados baseado nas funcionalidades do spotify.
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
