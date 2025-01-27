@@ -1,20 +1,26 @@
-## One For All
-o one for all é um projeto feito para criar e popular tabelas usando o banco de dados MySql, criando um banco de dados baseado nas funcionalidades do spotify.
+# One For All
 
-## Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-- docker
-- MySql
-- Javascript
-- docker-compose
+One For All is a project designed to create and populate tables using the MySQL database, creating a database based on the features of Spotify.
 
-## Para instalar e executar o projeto em sua máquina local, siga os passos abaixo:
-Clone o repositório para sua máquina local.
-rode o comando npm install.
-rode os testes com npm run test.
+## Technologies Used
 
-## Principais Aprendizados
-Durante o desenvolvimento deste projeto, o principal aprendizado vem da organização em diagramas de tabelas de banco de dados, usando ligação N:N, N:1 ..., focando em fazer essa organização, alem é claro de popular estas tabelas.
+- **Docker**
+- **MySQL**
+- **JavaScript**
+- **Docker Compose**
 
-## Conclusão
-foi um projeto ótimo para aprender principalmente a organização de tabelas com o MySql, entendendo conceito que são aplicados diariamente no mercado de trabalho.
+## Installation
+
+To install and run the project locally, follow the steps below:
+
+1. Clone the repository to your local machine.
+2. Run the command `npm install`.
+3. Run the tests with `npm run test`.
+
+## Key Learnings
+
+During the development of this project, the main learning came from organizing database tables in diagrams, using relationships such as N:N, N:1, etc., focusing on this organization and, of course, populating these tables.
+
+## Conclusion
+
+This project was great for learning, especially the organization of tables with MySQL, understanding concepts that are applied daily in the job market.
